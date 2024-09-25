@@ -1,5 +1,7 @@
 <h1 align=center>🐟 Fish 🐟</h1>
 
+<img src="assets/fish.png">
+
 <!--
 
 **Here are some ideas to get you started:**
