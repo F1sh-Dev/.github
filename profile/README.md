@@ -1,4 +1,4 @@
-<div align=center>Fish</div>
+<h1 align=center>Fish</h1>
 
 <!--
 
