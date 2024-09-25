@@ -1,4 +1,4 @@
-<h1 align=center>Fish</h1>
+<h1 align=center>🐟 Fish 🐟</h1>
 
 <!--
 
