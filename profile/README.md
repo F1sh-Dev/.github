@@ -1,6 +1,6 @@
 <h1 align=center>🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟 Fish 🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟🐟<h1>
 
-<div align="center"><img src="assets/fish.png"></div>
+<div align="center"><img src="assets/fish.png"><img src="assets/fish.png"><img src="assets/fish.png"></div>
 
 <!--
 
